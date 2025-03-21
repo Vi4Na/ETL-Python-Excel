@@ -1,0 +1,16 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Arquivos do sistema
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações do usuário
+.vscode/
+.DS_Store
+
+# Dependências instaladas
+*.log
+*.csv
+*.xlsx
